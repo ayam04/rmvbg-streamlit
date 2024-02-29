@@ -1,0 +1,4 @@
+streamlit
+pillow==9.4.0
+rembg
+pybase64
